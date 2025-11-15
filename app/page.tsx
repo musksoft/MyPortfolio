@@ -7,7 +7,6 @@ import { TimelineDemo } from "@/components/TimelineDemo";
 import Footer from "@/components/Footer";
 import { ThreeDMarqueeDemo } from "@/components/three-d-marquee-demo";
 import Services from "@/components/Services";
-import Experience from "@/components/Experience";
 
 export default function Home() {
   return (
@@ -36,12 +35,10 @@ export default function Home() {
 
         <section id="projects">
           <ThreeDMarqueeDemo />
-        
+        </section>
 
-       
+        <section id="contact">
           <Services />
-          <Experience/></section>
- <section id="contact">
           <Footer />
         </section>
       </div>
