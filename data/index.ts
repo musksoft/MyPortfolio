@@ -174,31 +174,19 @@ export const workExperience = [
   {
     id: 1,
     title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity and focusing on SEO Content Optimisation.",
     className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    thumbnail: "/seo.png",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Graphic Designing",
+    desc: "Created content designs for a small startup company to promote their business value using Canva, Figma & Adobe.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
+    thumbnail: "/bulb.png",
   },
-  {
-    id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
-  },
-  {
-    id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
-    className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
-  },
+
+
 ];
 
 // Social media array with links
